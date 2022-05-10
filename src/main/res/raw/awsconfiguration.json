@@ -3,8 +3,8 @@
   "CredentialsProvider": {
     "CognitoIdentity": {
       "Default": {
-        "PoolId": "REPLACE_ME",
-        "Region": "REPLACE_ME"
+        "PoolId": "us-west-2:45e74c5d-6364-41d5-b8bd-b81216710df8",
+        "Region": "us-west-2"
       }
     }
   },
@@ -13,10 +13,10 @@
   },
   "CognitoUserPool": {
     "Default": {
-      "AppClientSecret": "REPLACE_ME",
-      "AppClientId": "REPLACE_ME",
-      "PoolId": "REPLACE_ME",
-      "Region": "REPLACE_ME"
+      "AppClientSecret": "1272tndas284t5h09aucn5727sinu5lln4t83o9ilmn7vlf3gfqp",
+      "AppClientId": "4vev6ljgsb1p2rvmlfh65i285e",
+      "PoolId": "us-west-2_ObfLMjw7F",
+      "Region": "us-west-2"
     }
   }
 }
